@@ -1,0 +1,10 @@
+title: My Website
+description: CMS Assignment
+theme: minima
+
+header_pages:
+  - index.md
+  - about.md
+  - cms-notes.md
+  - ssg-notes.md
+  - contact.md
